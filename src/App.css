@@ -1,0 +1,10 @@
+.rtl-container {
+    direction: rtl;
+    overflow: hidden;
+  }
+  
+  .ltr-container {
+    direction: ltr;
+    overflow: hidden;
+  }
+  
